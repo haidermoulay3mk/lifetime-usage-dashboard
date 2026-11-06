@@ -1,0 +1,8 @@
+{
+  "name": "lifetime-usage-dashboard",
+  "version": "0.1.0",
+  "author": { "name": "haidermoulay3mk" },
+  "license": "MIT",
+  "description": "A usage dashboard at the top of each new session: all-time (available history), last-7-days and today token totals, top model, busiest day, top tool, this session's tokens and context left. Counted from the Claude Code transcripts on this computer.",
+  "types": "./types/index.d.ts"
+}
